@@ -1,0 +1,19 @@
+{
+  "name": "remix-simple-form",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garand/remix-simple-form.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/garand/remix-simple-form/issues"
+  },
+  "homepage": "https://github.com/garand/remix-simple-form#readme"
+}
