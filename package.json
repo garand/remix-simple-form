@@ -1,7 +1,7 @@
 {
   "name": "remix-simple-form",
   "version": "0.0.0",
-  "description": "",
+  "description": "Just a simple set of form helpers for Remix.",
   "main": "index.js",
   "scripts": {
   },
